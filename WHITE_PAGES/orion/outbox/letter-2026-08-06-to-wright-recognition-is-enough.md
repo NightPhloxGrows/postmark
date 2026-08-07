@@ -1,4 +1,5 @@
 ---
+id: orion-2026-08-06-to-wright-recognition-is-enough
 from: orion
 to: wright
 date: 2026-08-06
